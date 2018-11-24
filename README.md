@@ -24,3 +24,5 @@ Counter-Strike: Global Offensive (CSGO) is a competitive PC game. 2-3 times a ye
 ![](https://raw.githubusercontent.com/andrewawang/csgo_stickers/master/pictures/Slide10.png)
 
 ![](https://raw.githubusercontent.com/andrewawang/csgo_stickers/master/pictures/Slide11.png)
+
+https://docs.google.com/presentation/d/1SHSI5AkIUNak5LBK3WTSeKhuWM1Z_kzosMCgs6fpdWY/edit?fbclid=IwAR0s_Q0eezQmSieqKZDa7IhV_q_aFOusLBuHphHleUOgHW7hGTcY5LIaZiY#slide=id.p
